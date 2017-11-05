@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rikkeisoft_Network_Parser</string>
+    <string name="tv_userID">UserID:</string>
+    <string name="tv_body">Body:</string>
+</resources>
